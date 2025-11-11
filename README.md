@@ -18,6 +18,10 @@ break down cost keep device compact easy to mount etc.
 
 Water resistant map and leds, laminate or glass case prevent sun damage as much as possible but also maybe use indoors
 
+---
+
+https://forum.arduino.cc/t/asynchttprequest-help/1207290
+
 
 
 # REASEARCH
@@ -31,7 +35,9 @@ Water resistant map and leds, laminate or glass case prevent sun damage as much 
 - https://oklahoma.gov/content/dam/ok/en/careertech/business-and-industry/aerospace-and-aviation/toolkits/toolkit-4-build-your-own-weather-station.pdf
 
 
+https://aviationweather.gov/data/api/#api
+https://aviationweather.gov/api/data/metar?ids=KMCI&format=json
 
-
-
-
+- South Africa
+    - https://aviationweather.gov/api/data/metar?ids=FALE&format=json
+    - https://aviationweather.gov/api/data/taf?ids=FALE&format=json
